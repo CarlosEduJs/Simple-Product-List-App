@@ -17,3 +17,5 @@
 
 
 > Adapted project, as its requirement was only to do it without frameworks, but I decided to adapt it to train more NextJs.
+
+- [Link the frontend mentor challenge](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d)
