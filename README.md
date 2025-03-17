@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Product List With Cart Main
 
-## Getting Started
+1. *What does this site do?*
 
-First, run the development server:
+ 1. The user can add products to the cart, and it includes features to increase and decrease the quantity of items. It has a simulated purchase system that displays a modal when the order is confirmed.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+ 2. The project was adapted from a FrontEnd Mentor challenge.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ 3. Here are the challenge requirements: Your users should be able to:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    - Add items to the cart and remove them
+    - Increase or decrease the quantity of items in the cart
+    - See an order confirmation modal when they click "Confirm Order"
+    - Reset their selections when they click "Start New Order"
+    - View the optimal layout for the interface based on their device's screen size
+    - See hover and focus states for all interactive elements on the page
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Adapted project, as its requirement was only to do it without frameworks, but I decided to adapt it to train more NextJs.
